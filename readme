@@ -1,4 +1,5 @@
 - Create front-end using react
 - back-end : API-Gateway , lambda , SNS, SQS 
 - Domain registration : registration failed (create ticket to solve the problem)
-- try solving problem of Domain (implement route 53)
+- try solving problem of Domain (implement route 53), work on email format
+- domain problem solved , working on cloud-front and certificate
